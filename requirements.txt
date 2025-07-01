@@ -30,7 +30,7 @@ janus-swi
 pyswip @ git+https://github.com/logicmoo/pyswip
 ##-e reqs/pyswip
 #-e /opt/hyperon/hyperon-experimental/python[dev]
-hyperon
+hyperon==0.2.3
 ##-e reqs/metta_kernel
 #-e ./python[dev] .
 #metakernel
