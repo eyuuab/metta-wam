@@ -30,14 +30,14 @@ janus-swi
 pyswip @ git+https://github.com/logicmoo/pyswip
 ##-e reqs/pyswip
 #-e /opt/hyperon/hyperon-experimental/python[dev]
-hyperon==0.2.3
+hyperon
 ##-e reqs/metta_kernel
 #-e ./python[dev] .
 #metakernel
 #calysto
 yasi
-hyperon-das==0.4.1
+hyperon-das
 #==0.4.1
-hyperon-das-atomdb==0.3.2
+hyperon-das-atomdb
 #==0.3.2
 
