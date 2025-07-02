@@ -36,8 +36,8 @@ hyperon==0.2.3
 #metakernel
 #calysto
 yasi
-hyperon-das==0.4.1
-#==0.4.1
-hyperon-das-atomdb==0.3.2
-#==0.3.2
+# hyperon-das==0.4.1
+# #==0.4.1
+# hyperon-das-atomdb==0.3.2
+# #==0.3.2
 
